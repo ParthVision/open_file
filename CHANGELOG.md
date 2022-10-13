@@ -1,8 +1,8 @@
-## 3.2.2
+## 3.2.1
 * `FFi` updated to v2.
 * android migrated from `v1` to `v2`, 
 * folder name corrected, ` plaform -> platform`.
-* package version updated to `3.2.2`
+* package version updated to `3.2.1`
 * Gradle updated to `gradle-7.3.1`
 ## 3.2.1
 * Add command parser before create system call [#144](https://github.com/crazecoder/open_file/issues/144) (thanks to [@mludovico](https://github.com/mludovico))
